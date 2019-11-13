@@ -17,7 +17,7 @@ Duration:
 None for this lesson. 
 
 ## Educational microapps 
-1. pc4biorobots (sample PhysiCell-powered nanoHUB app) [https://www.nanohub.org/tools/pc4biorobots] 
+1. pc4biorobots (sample PhysiCell-powered nanoHUB app) https://www.nanohub.org/tools/pc4biorobots 
 
 See [lesson 02](https://github.com/physicell-training/02-How-to-nanoHUB) for a tutorial on running [PhysiCell](http://PhysiCell.org) models on [nanoHUB](https://www.nanohub.org). 
 
