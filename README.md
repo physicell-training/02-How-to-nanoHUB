@@ -1,4 +1,4 @@
-# Module 02 : How to use a PhysiCell nanoHUB app 
+# Lesson 02 : How to use a PhysiCell nanoHUB app 
 This lesson demonstrates how to use a PhysiCell-powered nanoHUB app. These are cloud-hosted interactive mathematical models created for education or research purposes. 
 
 ## Video recording of lesson 
